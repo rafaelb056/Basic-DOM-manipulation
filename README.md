@@ -19,7 +19,7 @@ This is an exercise basic on how to manipulate DOM.
 
 ## Live Demo
 
-[Live Demo Link]( https://rafaelb056.github.io/DOM-Manipulation-and-Eventsents/)
+[Live Demo Link](  https://rafaelb056.github.io/Basic-DOM-manipulation/)
 
 ## Getting Started
 
